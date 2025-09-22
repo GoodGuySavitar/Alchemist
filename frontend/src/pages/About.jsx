@@ -1,6 +1,5 @@
 import React from "react";
-import aboutus from "../assets/logo.svg"
-
+import { assets } from "../assets";
 const About = () => {
   return (
     <div className="min-h-screen pt-10 pb-20 px-4">
@@ -10,7 +9,7 @@ const About = () => {
         <div className="flex flex-col md:flex-row gap-12 items-center bg-white/80 border border-gray-300 rounded-xl p-8 mb-14">
           {/* Left: Image */}
           <img
-            src={aboutus}
+            src={assets.logo}
             alt="About Us"
             className="w-full max-w-[360px] rounded-xl"
           />
