@@ -1,5 +1,5 @@
 import React from 'react';
-import { assets, specialityData } from '../assets/assets.js';
+import { assets, specialityData } from '../assets.js';
 import Header, { FeatureCard } from '../components/Header'; // Import Header (default) and FeatureCard (named)
 import SubjectCard from '../components/Subject'; // Import SubjectCard (default)
 

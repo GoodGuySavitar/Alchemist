@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { assets, facultyData, specialityData } from '../assets/assets.js';
+import { assets, facultyData, specialityData } from '../assets.js';
 
 // --- Individual Teacher Card Component ---
 function TeacherCard({ image, name, onClick }) {
