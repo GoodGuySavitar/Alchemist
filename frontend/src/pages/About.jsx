@@ -1,5 +1,5 @@
 import React from "react";
-import { assets } from "../assets/assets";
+import { assets } from "../../public/assets/assets";
 const About = () => {
   return (
     <div className="min-h-screen pt-10 pb-20 px-4">
