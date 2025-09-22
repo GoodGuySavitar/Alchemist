@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react'; // Import useEffect
 import { NavLink, useNavigate } from 'react-router-dom';
-import {assets} from '../assets.js';
+import {assets} from '../assets/assets.js';
 // Removed unused useTheme import
 
 const Navbar = () => {

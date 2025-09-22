@@ -1,6 +1,6 @@
 import React, { createContext } from 'react';
 // Import the facultyData array
-import { facultyData } from '../assets.js'; // Correct import
+import { facultyData } from '../assets/assets.js'; // Correct import
 
 export const AppContext = createContext();
 

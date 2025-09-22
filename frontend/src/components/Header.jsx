@@ -1,5 +1,5 @@
 import React from 'react';
-import { assets } from '../assets.js';
+import { assets } from '../assets/assets.js';
 
 // --- Reusable Feature Card Component ---
 // Note: This is now part of Header.jsx but kept separate for clarity
