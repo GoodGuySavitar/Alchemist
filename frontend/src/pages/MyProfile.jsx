@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import profilePic from '../assets/profile_pic.png'; // Import the image
+import assets from '../../public/assets/assets'; // Import the image
 
 const initialUserData = {
   name: "Alex Johnson",
