@@ -36,7 +36,7 @@ import engineeringAndTech from './engineeringAndTech.png'
 import management from './management.png'
 import scienceandhumanities from './scienceandhumanities.png'
 import medical from './medical.png'
-import Law from './Law.png'
+import Law from './law.png'
 
 
 
@@ -55,7 +55,7 @@ export const assets = {
     dropdown_icon,
     upload_icon,
     stripe_logo,
-    razorpay_logo
+    razorpay_logo,
 }
 
 export const specialityData = [
