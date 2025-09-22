@@ -1,10 +1,7 @@
-import appointment_img from '../src/assets/appointment_img.png'
 import header_img from '../src/assets/header_img.png'
 import hero from '../src/assets/hero.jpg'
 import group_profiles from '../src/assets/group_profiles.png'
 import profile_pic from '../src/assets/profile_pic.png'
-import contact_image from '../src/assets/contact_image.png'
-import about_image from '../src/assets/about_image.png'
 import logo from '../src/assets/logo.svg'
 import dropdown_icon from '../src/assets/dropdown_icon.svg'
 import menu_icon from '../src/assets/menu_icon.svg'
@@ -38,7 +35,6 @@ import Law from '../src/assets/Law.png'
 
 
 export const assets = {
-    appointment_img,
     header_img,
     hero,
     group_profiles,
@@ -48,8 +44,6 @@ export const assets = {
     info_icon,
     profile_pic,
     arrow_icon,
-    contact_image,
-    about_image,
     menu_icon,
     cross_icon,
     dropdown_icon,
